@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "826578315530",
+    "project_id": "ashconnect-384214",
+    "storage_bucket": "ashconnect-384214.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:826578315530:android:183d1301dd7c58c1fd32f3",
+        "android_client_info": {
+          "package_name": "ashco.socialmediapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "826578315530-842tdku86340voj03eknfvtfh6mqc6cu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ashco.socialmediapp",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "826578315530-6lvcvngokjb4cv5844lkrq08nfdo0riq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0LMkbNgRZKMBI7N1fsEiT9DW3TGEOsOM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "826578315530-6lvcvngokjb4cv5844lkrq08nfdo0riq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "826578315530-cjrhsfatcrsf517c5ptseu12vnrpmplf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "ashco.socialmediapp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:826578315530:android:783b4e671f2e6605fd32f3",
+        "android_client_info": {
+          "package_name": "ashesiconnect.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "826578315530-vlmvrr3fs7l2uj4h9dmr52am9ke51c4a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ashesiconnect.com",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "826578315530-6lvcvngokjb4cv5844lkrq08nfdo0riq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0LMkbNgRZKMBI7N1fsEiT9DW3TGEOsOM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "826578315530-6lvcvngokjb4cv5844lkrq08nfdo0riq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "826578315530-cjrhsfatcrsf517c5ptseu12vnrpmplf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "ashco.socialmediapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
