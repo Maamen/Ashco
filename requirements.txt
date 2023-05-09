@@ -1,0 +1,6 @@
+flask
+firebase_admin
+firestore
+jsonify
+Flask
+firebase_admin
